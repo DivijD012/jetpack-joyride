@@ -1,0 +1,9 @@
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/CMakeFiles/app.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/CMakeFiles/glad.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/CMakeFiles/edit_cache.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/CMakeFiles/rebuild_cache.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/libraries/glfw/src/CMakeFiles/glfw.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/divijd/Desktop/Semester_4/Computer Graphics/CG_Tute1/Boilerplate2023/src/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
